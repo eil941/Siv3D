@@ -216,7 +216,7 @@ void Main()
 	{
 		Print << U"------------------------------";
 		Array<int32> v = { 10, 50, 30, 20, 40 };
-		Print << v;
+		Print << v;Circle_Array
 		//配列の逆順
 		v.reverse();
 		Print << v;
